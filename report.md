@@ -50,9 +50,6 @@ Environment solved in 393 episodes!	Average Score: 14.08
 
 ***Suggestions for Improvement
 
-***Suggestions for improving the agent's
-performance
-
 1.Try an exponential linear unit in place of the RLU's.  There is some research that shows ELU's 
 outperforming the RLU.  
 
